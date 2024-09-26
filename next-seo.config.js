@@ -2,7 +2,7 @@
 export default {
   title: "ArunRaj Online Services",
   description:
-    "Get all your online services like PAN card, Aadhar, Passport, EPFO, and more at affordable rates with ArunRajOnlineServices. Rated 5 stars by over 100 customers!",
+    "Get all your online services like PAN card, Aadhar, Passport, EPFO, and more at affordable rates with ArunRajOnlineServices.",
   canonical: "https://arun-raj-online-services.vercel.app",
   openGraph: {
     url: "https://arun-raj-online-services.vercel.app",
