@@ -7,7 +7,7 @@ export default {
   openGraph: {
     url: "https://arun-raj-online-services.vercel.app",
     title:
-      "ArunRajOnlineServices - PAN Card, Aadhar, Passport, and EPFO Services",
+      "ArunRaj Online Services - PAN Card, Aadhar, Passport, and EPFO Services",
     description:
       "Affordable and reliable online services for PAN card, Aadhar card, Passport assistance, and EPFO services.",
     images: [
